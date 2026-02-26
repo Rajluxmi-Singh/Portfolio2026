@@ -8,7 +8,7 @@ export default function About() {
 
           <div className="about-image">
             {/* Replace with your actual image */}
-            <img src="./src/assets/photo.jpg" alt="Rajluxmi Singh" />
+            <img src="./public/photo.jpg" alt="Rajluxmi Singh" />
           </div>
 
           <div>

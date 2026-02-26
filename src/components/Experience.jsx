@@ -17,7 +17,7 @@ export default function Experience() {
             viewport={{ once: true }}
           >
             <div className="experience-logo">
-              <img src="./src/assets/fluxgen.png" alt="FluxGen logo" />
+              <img src="./public/fluxgen.png" alt="FluxGen logo" />
             </div>
             <div className="experience-left">
               <h3>Product Management Intern</h3>
@@ -40,7 +40,7 @@ export default function Experience() {
             viewport={{ once: true }}
           >
             <div className="experience-logo">
-              <img src="./src/assets/smc.png" alt="FluxGen logo" />
+              <img src="./public/smc.png" alt="FluxGen logo" />
             </div>
             <div className="experience-left">
               <h3>UI/UX Intern</h3>
